@@ -8,6 +8,8 @@ postgres/
 
 public/
 
+static/products/
+
 # Logs
 logs
 *.log
